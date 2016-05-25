@@ -1,0 +1,8 @@
+div.tg-pane table caption {
+	text-align: right;
+}
+
+div.tg-dropdown {
+	left: auto;
+	right: 0;
+}
